@@ -14,7 +14,7 @@ maintainers = [
 ]
 description = "WARC writing MITM HTTP/S proxy"
 readme = "README.rst"
-license = "GPL-2.0-or-later"
+license = {text = "GPL-2.0-or-later"}
 requires-python = ">=3.9"
 classifiers = [
     "Development Status :: 5 - Production/Stable",
